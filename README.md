@@ -15,22 +15,6 @@ I’m a final-year Information Technology student at **Ho Chi Minh City Universi
 
 ---
 
-## 🚀 Highlight Project
-
-### 🔹 [Inquiro AI – Personalized RAG Chatbot Platform](https://github.com/anhphanln/inquiro-ai)
-A full-stack RAG-based Q&A chatbot that allows users to interact with their private documents via a modern web interface.
-
-**Tech Stack:**  
-`FastAPI` • `Python` • `Gemini 1.5 Flash` • `Qdrant` • `PostgreSQL` • `RAGAs` • `Next.js` • `Tailwind CSS` • `CI/CD`
-
-Main Features:
-- Hybrid vector + sparse retrieval with reranking
-- Secure user auth (JWT), async ingestion
-- Real-time citation and web-enhanced response via Tavily
-- Fully containerized with Docker Compose
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 | Area           | Tools & Technologies                                                             |
