@@ -49,7 +49,7 @@ I’m a final-year Information Technology student at **Ho Chi Minh City Universi
 
 - 📧 Email: [anhphanler@gmail.com](mailto:anhphanler@gmail.com)  
 - 🐙 GitHub: [phanlerda](https://github.com/phanlerda)  
-- 💼 LinkedIn: [anhphanln](https://linkedin.com/in/phanlerda)
+- 💼 LinkedIn: [phanlerda](https://linkedin.com/in/phanlerda)
 
 ---
 
