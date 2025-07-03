@@ -1,56 +1,66 @@
-# 👋 Hi, I'm Phan Le Nhat Anh
-
-🎓 AI Research Intern | 🚀 Generative AI & RAG Developer | 📍 Based in Vietnam
 
 ---
 
-## 🧠 About Me
+## 🧠 Phan Le Nhat Anh — AI Engineer | GenAI & RAG Enthusiast
 
-I’m a final-year Information Technology student at **Ho Chi Minh City University of Transport** with a strong focus on **Artificial Intelligence**, especially **LLMs**, **RAG systems**, and **GenAI applications**.
+Hi! I'm a passionate AI Engineer Intern with strong interest and hands-on experience in building full-stack GenAI applications, RAG pipelines, and LLM-powered systems.
 
-- 💡 Passionate about building intelligent systems that bridge humans and machines.
-- 🧪 Currently researching **LLM evaluation**, **RAG pipelines**, and **multimodal orchestration**.
-- 🌱 Always learning new tools in the GenAI ecosystem (LangChain, Gemini, Mistral...).
-- ✨ Interested in Open Source AI, research collaboration, and impactful products.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Area           | Tools & Technologies                                                             |
-|----------------|----------------------------------------------------------------------------------|
-| Languages      | Python, SQL, R                                                                   |
-| ML/AI          | PyTorch, TensorFlow, Scikit-learn, Transformers, RNN/CNN/LSTM                    |
-| GenAI          | LangChain, Gemini, GPT-4, Claude 3, DeepSeek, Mistral                            |
-| Vector DBs     | Qdrant, FAISS, ChromaDB                                                          |
-| Backend        | FastAPI, Flask                                                                   |
-| Frontend       | React, Next.js, Tailwind CSS, Zustand                                            |
-| DevOps         | Git, Docker, CI/CD                                                               |
+🔭 Currently working on AI agents and retrieval-augmented generation with models like Gemini, GPT-4, and Claude.
+🌱 Exploring scalable RAG evaluation, hybrid search, and agent orchestration.
+🎯 Goal: Build robust, real-world AI products that make knowledge accessible.
 
 ---
 
-## 📜 Certificates
+## 🚀 Projects
 
-- 🧠 *Generative AI with LLMs* – DeepLearning.AI × OpenAI  
-- ⚙️ *LangChain for LLM Apps* – LearnPrompting.org  
-- ☁️ *Introduction to Generative AI* – Google Cloud Skills Boost
+### 🔹 [Inquiro AI](https://github.com/phanlerda/inquiro-ai) — Personalized RAG Chatbot Platform
+
+> *FastAPI • Gemini 2.5 • Qdrant • PostgreSQL • Next.js*
+
+A full-stack RAG platform where users can upload and query their private documents through a chatbot UI.
+
+* 🔍 Hybrid search (dense + sparse) with reranking and web-enhanced agents
+* 🔐 JWT-auth, async ingestion pipeline, and document processing backend
+* 🧪 Evaluated using RAGAs with Docker Compose for local development
+* 💬 Real-time frontend with source highlighting (Next.js + Zustand)
+
+---
+
+### 🔹 [AI Generative System](https://github.com/phanlerda/3-gen-ai) — Multimodal GenAI Platform
+
+> *FastAPI • PyTorch • Stable Diffusion • AnimateDiff • React*
+
+A multimodal AI content generation system for real-time image/video synthesis.
+
+* 🎨 Integrated SDXL-Turbo, AnimateDiff for high-speed generation
+* 🚀 Hugging Face backend for optimized GPU serving
+* 🖼️ Frontend UI with real-time preview and status updates
+* 🧰 Deployed using Docker and stream-based inference
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**: Python, SQL
+**Frameworks**: FastAPI, Flask, React, Next.js
+**AI/ML**: PyTorch, TensorFlow, Scikit-learn
+**LLMs & RAG**: GPT-4, Gemini, Claude, LangChain, Qdrant, FAISS
+**Tools**: Docker, Git, CI/CD
+**Databases**: PostgreSQL, MySQL
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 **Outstanding Student of the Year** (2022–2023)
-- 🎓 **Merit-based Scholarship**, Faculty of IT – UTH
-- 🤖 Active member of IT Club – Internal chatbot developer & research contributor
+* 🥇 Outstanding Student (2022–2024) – Faculty of IT, HCMUTRANS
+* 🎓 Merit-based Scholarship – Information Technology
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect!
 
-- 📧 Email: [anhphanler@gmail.com](mailto:anhphanler@gmail.com)  
-- 🐙 GitHub: [phanlerda](https://github.com/phanlerda)  
-- 💼 LinkedIn: [phanlerda](https://linkedin.com/in/phanlerda)
+* GitHub: [phanlerda](https://github.com/phanlerda)
+* LinkedIn: [linkedin.com/in/phanlerda](https://www.linkedin.com/in/phanlerda)
+* Email: [anhphanler@gmail.com](mailto:anhphanler@gmail.com)
 
 ---
-
-_“Build things. Break things. Learn fast. Stay humble.”_
