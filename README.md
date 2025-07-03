@@ -1,66 +1,61 @@
+# 👋 Hi, I'm Phan Le Nhat Anh
 
----
-
-## 🧠 Phan Le Nhat Anh — AI Engineer | GenAI & RAG Enthusiast
-
-Hi! I'm a passionate AI Engineer Intern with strong interest and hands-on experience in building full-stack GenAI applications, RAG pipelines, and LLM-powered systems.
-
-🔭 Currently working on AI agents and retrieval-augmented generation with models like Gemini, GPT-4, and Claude.
-🌱 Exploring scalable RAG evaluation, hybrid search, and agent orchestration.
-🎯 Goal: Build robust, real-world AI products that make knowledge accessible.
+🎓 **AI Engineer Intern** | 🧠 Passionate about Large Language Models, RAG systems, and Multimodal AI  
+📍 Based in Ho Chi Minh City, Vietnam  
+📧 anhphanler@gmail.com | 📱 +84 336 600 020  
+🌐 [GitHub](https://github.com/phanlerda) | [LinkedIn](https://www.linkedin.com/in/phanlerda)
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 [Inquiro AI](https://github.com/phanlerda/inquiro-ai) — Personalized RAG Chatbot Platform
+### 🔹 [Inquiro AI](https://github.com/phanlerda/inquiro-ai) — Personalized RAG Chatbot Platform  
+**Tech Stack:** FastAPI, Python, Gemini 2.5 Pro, Qdrant, PostgreSQL, Next.js, Tailwind CSS, Docker  
+- Built a full-stack platform for querying personal documents via an intuitive web interface.  
+- Engineered a modular backend (FastAPI) with JWT auth and async background processing.  
+- Developed an advanced RAG pipeline: hybrid retrieval (dense + sparse), reranking, and agentic orchestration.  
+- Implemented a responsive SPA frontend with real-time citation and Zustand state management.  
+- Dockerized architecture and evaluated performance with RAGAs.
 
-> *FastAPI • Gemini 2.5 • Qdrant • PostgreSQL • Next.js*
-
-A full-stack RAG platform where users can upload and query their private documents through a chatbot UI.
-
-* 🔍 Hybrid search (dense + sparse) with reranking and web-enhanced agents
-* 🔐 JWT-auth, async ingestion pipeline, and document processing backend
-* 🧪 Evaluated using RAGAs with Docker Compose for local development
-* 💬 Real-time frontend with source highlighting (Next.js + Zustand)
-
----
-
-### 🔹 [AI Generative System](https://github.com/phanlerda/3-gen-ai) — Multimodal GenAI Platform
-
-> *FastAPI • PyTorch • Stable Diffusion • AnimateDiff • React*
-
-A multimodal AI content generation system for real-time image/video synthesis.
-
-* 🎨 Integrated SDXL-Turbo, AnimateDiff for high-speed generation
-* 🚀 Hugging Face backend for optimized GPU serving
-* 🖼️ Frontend UI with real-time preview and status updates
-* 🧰 Deployed using Docker and stream-based inference
+### 🔹 [AI Generative System](https://github.com/phanlerda/3-gen-ai) — Multimodal Content Creation  
+**Tech Stack:** FastAPI, PyTorch, Stable Diffusion, AnimateDiff, React (Vite + Tailwind CSS), Hugging Face  
+- Created a platform for real-time text-to-image/video generation using cutting-edge diffusion models.  
+- Integrated SDXL-Turbo, AnimateDiff with GPU management backend via FastAPI.  
+- Delivered a sleek UI with live streaming and status feedback.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Experience
 
-**Languages**: Python, SQL
-**Frameworks**: FastAPI, Flask, React, Next.js
-**AI/ML**: PyTorch, TensorFlow, Scikit-learn
-**LLMs & RAG**: GPT-4, Gemini, Claude, LangChain, Qdrant, FAISS
-**Tools**: Docker, Git, CI/CD
-**Databases**: PostgreSQL, MySQL
-
----
-
-## 🏆 Achievements
-
-* 🥇 Outstanding Student (2022–2024) – Faculty of IT, HCMUTRANS
-* 🎓 Merit-based Scholarship – Information Technology
+**AI Research Intern**  
+*Ho Chi Minh City University of Transport – Industry Semester* (Mar 2025 – Jun 2025)  
+- Built Retrieval-Augmented Generation (RAG) pipelines and agentic workflows with LLMs.  
+- Benchmarked GPT-3.5, Claude 3, Mistral, Phi-3 for retrieval tasks.  
+- Contributed to UTH's AI chatbot for student admission counseling.
 
 ---
 
-## 📫 Let’s Connect!
+## 🎓 Education
 
-* GitHub: [phanlerda](https://github.com/phanlerda)
-* LinkedIn: [linkedin.com/in/phanlerda](https://www.linkedin.com/in/phanlerda)
-* Email: [anhphanler@gmail.com](mailto:anhphanler@gmail.com)
+**BSc in Information Technology**  
+*Ho Chi Minh City University of Transport* (Oct 2022 – Present)  
+- GPA: 3.67 / 4.0  
+- Awarded Outstanding Student of the Year (2022–2024)  
+- Recipient of Merit-based IT Faculty Scholarship (2022–2024)
 
 ---
+
+## 🛠 Technical Skills
+
+- **Languages:** Python, SQL  
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
+- **LLMs & RAG:** GPT-4, Gemini 2.5, DeepSeek V3, Phi-3, LangChain, Qdrant, FAISS, ChromaDB  
+- **Web Development:** FastAPI, Flask, React, Next.js  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & DevOps:** Git, Docker  
+
+---
+
+## 📫 Let's Connect  
+If you're working on exciting projects in LLMs, RAG, or GenAI, feel free to reach out!
+
