@@ -47,7 +47,7 @@
 
 ## 🛠 Technical Skills
 
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL, Java, Javascript
 - **Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
 - **LLMs & RAG:** GPT-4, Gemini 2.5, DeepSeek V3, Phi-3, LangChain, Qdrant, FAISS, ChromaDB  
 - **Web Development:** FastAPI, Flask, React, Next.js  
