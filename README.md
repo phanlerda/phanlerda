@@ -2,7 +2,7 @@
 
 🎓 **AI Engineer Intern** | 🧠 Passionate about Large Language Models, RAG systems, and Multimodal AI  
 📍 Based in Ho Chi Minh City, Vietnam  
-📧 anhphanler@gmail.com | 📱 +84 336 600 020  
+📧 phanlerda@gmail.com | 📱 +84 336 600 020  
 🌐 [GitHub](https://github.com/phanlerda) | [LinkedIn](https://www.linkedin.com/in/phanlerda)
 
 ---
